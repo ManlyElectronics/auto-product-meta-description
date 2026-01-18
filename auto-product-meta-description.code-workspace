@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../product-sync-for-woo"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"php.validate.executablePath": "C:/xampp/php/php.exe"
+	}
+}

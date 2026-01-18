@@ -14,6 +14,9 @@ Dynamically generates meta description tags for WooCommerce product pages using 
 
 Generate Product Meta Description automatically creates SEO-friendly `<meta name="description">` tags for your WooCommerce product pages. The plugin extracts product attributes (both taxonomy and custom) to build keyword-rich descriptions.
 
+Source code: https://github.com/ManlyElectronics/auto-product-meta-description
+Support: Please use the WordPress.org support forum.
+
 **Features:**
 
 * Automatic meta description generation for all product pages
